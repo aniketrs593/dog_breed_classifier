@@ -32,9 +32,9 @@ This is the final module that uses both previous models (Human & Dog detector) t
   
   2. Download the human and dog datasets from the given links: 
   
-    [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+     [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
   
-    [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+     [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
   3. Unzip and place "dog_dataset" at location `dog_breed_classifier/dogImages`.
   4. Unzip and place "human_dataset" at location  `dog_breed_classifier/lfw`
