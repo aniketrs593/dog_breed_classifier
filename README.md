@@ -23,7 +23,7 @@ A CNN model made from scratch is used to compare results with a state-of-the-art
 This is the final module that uses both previous models (Human & Dog detector) to detect a dog or a human in the given image. 
 
 # Instructions:
-  1. Clone / download_zip this repo. You can .[clone].(git clone https://github.com/aniketrs593/dog_breed_classifier.git) using this link. 
+  1. Clone / download_zip this repo. You can [clone](git clone https://github.com/aniketrs593/dog_breed_classifier.git) using this link. 
   
   2. Download the human and dog datasets from the given links: 
   [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
